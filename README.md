@@ -1,7 +1,4 @@
 # GRAPHS AND BREADTH FIRST SEARCH (BFS) [CSE 101]
-Diwa Ashwini Vittala    
-dashwini
-
 ## Assignment details
 The program FindPath.c finds the shortest path from one vertex to another given a graph.
 
